@@ -23,7 +23,7 @@
 
 ### Hakkında
 Bu repository, uzunluk birimlerini birbirine dönüştürmek için hazırlanmıştır.  
-Şu an Türkçe sürümü `converter.py` dosyasında mevcut ve temel uzunluk birimlerini destekler:
+Şu an Türkçe sürümü `lenght_conversion.py` dosyasında mevcut ve temel uzunluk birimlerini destekler:
 
 - Kilometre (**km**)  
 - Hektometre (**hm**)  
@@ -33,7 +33,7 @@ Bu repository, uzunluk birimlerini birbirine dönüştürmek için hazırlanmı�
 - Santimetre (**cm**)  
 - Milimetre (**mm**)  
 
-İlerleyen zamanda daha gelişmiş bir sürüm eklenecek; bu sürümde:  
+İlerleyen zamanda daha gelişmiş bir sürüm eklenecek, bu sürümde:  
 - İngilizce dil desteği  
 - Daha fazla birim ekleme  
 - Kullanıcı dostu arayüz  
@@ -44,7 +44,7 @@ Bu repository, uzunluk birimlerini birbirine dönüştürmek için hazırlanmı�
 
 ### Kullanım
 ```bash
-python converter.py
+python lenght_conversion.py
 ```
 
 ## English
@@ -52,7 +52,7 @@ python converter.py
 ### About
 
 This repository is designed for converting between different length units.
-Currently, the Turkish version (converter.py) is available and supports the following units:
+Currently, the Turkish version `lenght_conversion.py` is available and supports the following units:
 	•	Kilometer (km)
 	•	Hectometer (hm)
 	•	Dekameter (dam)
@@ -72,7 +72,7 @@ A more advanced version will be added later, featuring:
 
 ### Usage
 ```bash
-python converter.py
+python lenght_conversion.py
 ```
 
 ## Lisans / License
