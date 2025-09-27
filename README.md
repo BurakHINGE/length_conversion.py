@@ -67,7 +67,7 @@ A more advanced version will be added later, featuring:
 	•	User-friendly interface
 
 ### Requirements
-	•	Python 3.x
+	•   Python 3.x
 	•	No additional libraries required
 
 ### Usage
@@ -79,9 +79,11 @@ python eng_lenght_conversion.py
 
 ## 📌 Sürüm Geçmişi / Version History
 
-### v1.1.0 Koda İngilizce sürüm eklendi. | English version added to the code.
+### v1.1.0 
+   • Koda İngilizce sürüm eklendi. | English version added to the code.
 
-### v1.0.0 km-hm-dam-m-dm-cm-mm birimleri eklendi. | Units km, hm, dam, m, dm, cm, mm have been added.
+### v1.0.0 
+   • km-hm-dam-m-dm-cm-mm birimleri eklendi. | Units km, hm, dam, m, dm, cm, mm have been added.
 
 ---
 
