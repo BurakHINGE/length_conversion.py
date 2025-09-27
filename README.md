@@ -33,7 +33,7 @@ Bu repository, uzunluk birimlerini birbirine dönüştürmek için hazırlanmı�
 - Santimetre (**cm**)  
 - Milimetre (**mm**)  
 
-İlerleyen zamanda daha gelişmiş bir sürüm eklenecek, bu sürümde:    
+🚀 İlerleyen zamanda daha gelişmiş bir sürüm eklenecek, bu sürümde:    
 - Daha fazla birim ekleme  
 - Kullanıcı dostu arayüz  
 
@@ -43,7 +43,7 @@ Bu repository, uzunluk birimlerini birbirine dönüştürmek için hazırlanmı�
 - Ek bir kütüphane gerekli değil  
 ```
 
-### Kullanım
+### 📝 Kullanım
 ```bash
 python lenght_conversion.py
 ```
@@ -62,7 +62,7 @@ Currently, the English version `eng_lenght_conversion.py` is available and suppo
 	•	Centimeter (cm)
 	•	Millimeter (mm)
 
-A more advanced version will be added later, featuring:
+🚀 A more advanced version will be added later, featuring:
 	•	Additional units
 	•	User-friendly interface
 
@@ -70,7 +70,7 @@ A more advanced version will be added later, featuring:
 	•   Python 3.x
 	•	No additional libraries required
 
-### Usage
+### 📝 Usage
 ```bash
 python eng_lenght_conversion.py
 ```
@@ -87,6 +87,6 @@ python eng_lenght_conversion.py
 
 ---
 
-## Lisans / License
+## 📄 Lisans / License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
