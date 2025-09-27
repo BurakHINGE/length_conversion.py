@@ -5,8 +5,8 @@
 ---
 
 ## 📌 Versiyon Bilgisi | Version Info
-- Geçerli Sürüm: **1.0.0**  
-- Current Version: **1.0.0**
+- Geçerli Sürüm: **1.1.0**  
+- Current Version: **1.1.0**
 
 ---
 
@@ -14,8 +14,8 @@
 
 | Dil / Language | Dosya / File         | Açıklama / Description |
 |----------------|----------------------|------------------------|
-| Türkçe / Turkish | [lenght_conversion.py](lenght_conversion.py) | Uzunluk birimlerini birbirine dönüştürme |
-| İngilizce / English | Coming soon...            | Length unit conversion (in progress) |
+| Türkçe / Turkish | [tr_lenght_conversion.py](tr_lenght_conversion.py) | Uzunluk birimlerini birbirine dönüştürme |
+| İngilizce / English | [eng_lenght_conversion.py](eng_lenght_conversion.py) | Length unit conversion |
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### Hakkında
 Bu repository, uzunluk birimlerini birbirine dönüştürmek için hazırlanmıştır.  
-Şu an Türkçe sürümü `lenght_conversion.py` dosyasında mevcut ve temel uzunluk birimlerini destekler:
+Şu an Türkçe sürümü `tr_lenght_conversion.py` dosyasında mevcut ve temel uzunluk birimlerini destekler:
 
 - Kilometre (**km**)  
 - Hektometre (**hm**)  
@@ -33,8 +33,7 @@ Bu repository, uzunluk birimlerini birbirine dönüştürmek için hazırlanmı�
 - Santimetre (**cm**)  
 - Milimetre (**mm**)  
 
-İlerleyen zamanda daha gelişmiş bir sürüm eklenecek, bu sürümde:  
-- İngilizce dil desteği  
+İlerleyen zamanda daha gelişmiş bir sürüm eklenecek, bu sürümde:    
 - Daha fazla birim ekleme  
 - Kullanıcı dostu arayüz  
 
@@ -52,7 +51,7 @@ python lenght_conversion.py
 ### About
 
 This repository is designed for converting between different length units.
-Currently, the Turkish version `lenght_conversion.py` is available and supports the following units:
+Currently, the English version `eng_lenght_conversion.py` is available and supports the following units:
 	•	Kilometer (km)
 	•	Hectometer (hm)
 	•	Dekameter (dam)
@@ -62,7 +61,6 @@ Currently, the Turkish version `lenght_conversion.py` is available and supports 
 	•	Millimeter (mm)
 
 A more advanced version will be added later, featuring:
-	•	English language support
 	•	Additional units
 	•	User-friendly interface
 
@@ -72,7 +70,7 @@ A more advanced version will be added later, featuring:
 
 ### Usage
 ```bash
-python lenght_conversion.py
+python eng_lenght_conversion.py
 ```
 
 ## Lisans / License
