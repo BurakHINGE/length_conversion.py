@@ -38,8 +38,10 @@ Bu repository, uzunluk birimlerini birbirine dönüştürmek için hazırlanmı�
 - Kullanıcı dostu arayüz  
 
 ### Gereksinimler
+```bash
 - Python 3.x  
 - Ek bir kütüphane gerekli değil  
+```
 
 ### Kullanım
 ```bash
@@ -72,6 +74,16 @@ A more advanced version will be added later, featuring:
 ```bash
 python eng_lenght_conversion.py
 ```
+
+---
+
+## 📌 Sürüm Geçmişi / Version History
+
+### v1.1.0 Koda İngilizce sürüm eklendi. | English version added to the code.
+
+### v1.0.0 km-hm-dam-m-dm-cm-mm birimleri eklendi. | Units km, hm, dam, m, dm, cm, mm have been added.
+
+---
 
 ## Lisans / License
 
