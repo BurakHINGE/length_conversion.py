@@ -4,18 +4,47 @@
 
 ---
 
-## 📌 Versiyon Bilgisi | Version Info
-- Geçerli Sürüm: **1.1.0**  
+## 📌 Version Info | Versiyon Bilgisi 
 - Current Version: **1.1.0**
+- Geçerli Sürüm: **1.1.0**  
 
 ---
 
-## Dosyalar / Files
+## Files / Dosyalar
 
-| Dil / Language | Dosya / File         | Açıklama / Description |
+| Language / Dil | File / Dosya         | Description / Açıklama |
 |----------------|----------------------|------------------------|
-| Türkçe / Turkish | [tr_lenght_conversion.py](tr_lenght_conversion.py) | Uzunluk birimlerini birbirine dönüştürme |
 | İngilizce / English | [eng_lenght_conversion.py](eng_lenght_conversion.py) | Length unit conversion |
+| Türkçe / Turkish | [tr_lenght_conversion.py](tr_lenght_conversion.py) | Uzunluk birimlerini birbirine dönüştürme |
+
+---
+
+## English
+
+### About
+
+This repository is designed for converting between different length units.
+Currently, the English version `eng_lenght_conversion.py` is available and supports the following units:
+	•	Kilometer (km)
+	•	Hectometer (hm)
+	•	Dekameter (dam)
+	•	Meter (m)
+	•	Decimeter (dm)
+	•	Centimeter (cm)
+	•	Millimeter (mm)
+
+🚀 A more advanced version will be added later, featuring:
+	•	Additional units
+	•	User-friendly interface
+
+### Requirements
+	•   Python 3.x
+	•	No additional libraries required
+
+### 📝 Usage
+```bash
+python eng_lenght_conversion.py
+```
 
 ---
 
@@ -48,45 +77,17 @@ Bu repository, uzunluk birimlerini birbirine dönüştürmek için hazırlanmı�
 python lenght_conversion.py
 ```
 
-## English
-
-### About
-
-This repository is designed for converting between different length units.
-Currently, the English version `eng_lenght_conversion.py` is available and supports the following units:
-	•	Kilometer (km)
-	•	Hectometer (hm)
-	•	Dekameter (dam)
-	•	Meter (m)
-	•	Decimeter (dm)
-	•	Centimeter (cm)
-	•	Millimeter (mm)
-
-🚀 A more advanced version will be added later, featuring:
-	•	Additional units
-	•	User-friendly interface
-
-### Requirements
-	•   Python 3.x
-	•	No additional libraries required
-
-### 📝 Usage
-```bash
-python eng_lenght_conversion.py
-```
-
 ---
 
-## 📌 Sürüm Geçmişi / Version History
+## 📌 Version History / Sürüm Geçmişi
 
 ### v1.1.0 
-   • Koda İngilizce sürüm eklendi. | English version added to the code.
+   • English version added to the code. | Koda İngilizce sürüm eklendi. 
 
 ### v1.0.0 
-   • km-hm-dam-m-dm-cm-mm birimleri eklendi. | Units km, hm, dam, m, dm, cm, mm have been added.
+   • Units km, hm, dam, m, dm, cm, mm have been added. | km-hm-dam-m-dm-cm-mm birimleri eklendi. 
 
 ---
 
 ## 📄 Lisans / License
-
 This project is licensed under the MIT License - see the LICENSE file for details.
