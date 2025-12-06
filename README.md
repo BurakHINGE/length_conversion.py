@@ -14,8 +14,8 @@
 
 | Language / Dil | File / Dosya         | Description / Açıklama |
 |----------------|----------------------|------------------------|
-| İngilizce / English | [eng_lenght_conversion.py](eng_lenght_conversion.py) | Length unit conversion |
-| Türkçe / Turkish | [tr_lenght_conversion.py](tr_lenght_conversion.py) | Uzunluk birimlerini birbirine dönüştürme |
+| English / İngilizce | [eng_lenght_conversion.py](eng_lenght_conversion.py) | Length unit conversion |
+| Turkish / Türkçe | [tr_lenght_conversion.py](tr_lenght_conversion.py) | Uzunluk birimlerini birbirine dönüştürme |
 
 ---
 
